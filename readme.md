@@ -1,6 +1,6 @@
 # ComicBook API
 
-Welcome to the ComicBook API! This API allows you to manage a collection of comic books, including adding new comics, retrieving details about existing comics, updating comic information, and deleting comics from the collection.
+Welcome to the ComicBook API! This API allows you to manage a collection of comic books, including adding new comics, retrieving details about existing comics, updating comic information, and deleting comics from the collection. This was made using AWS SDK for Javascript V3
 
 ## Table of Contents
 
