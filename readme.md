@@ -16,7 +16,7 @@ To get started with the ComicBook API, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/comicbook-api.git
+    git clone https://github.com/Jagrit2703/comicbook-api.git
     ```
 2. Navigate to the project directory:
     ```bash
